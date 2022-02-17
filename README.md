@@ -42,3 +42,15 @@ estruturas de terceiros que você acha que podem ajudá-lo a atingir o
 objetivo. Mantenha simples. Forneça o código-fonte e as instruções
 sobre como construir e executar seu aplicativo.
 
+
+## 🗺️Iniciar Projeto
+Para iniciar o desenvolvimento, é necessário clonar o projeto do GitHub num diretório de sua preferência:
+cd "diretorio de sua preferencia"
+
+
+
+
+
+
+
+
