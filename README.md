@@ -42,3 +42,22 @@ estruturas de terceiros que você acha que podem ajudá-lo a atingir o
 objetivo. Mantenha simples. Forneça o código-fonte e as instruções
 sobre como construir e executar seu aplicativo.
 
+
+## 🗺️Iniciar Projeto
+Para iniciar o desenvolvimento, é necessário clonar o projeto do GitHub num diretório de sua preferência:
+- Na linha de comando:
+cd "diretorio de sua preferencia"
+git clone https://github.com/gilneilima/Tarefa-Tenax.git
+
+- Dentro do Eclipse ou STS:
+File -> Import -> Maven -> Existing Maven project
+
+Em seguida, construa na linha de comando ./mvnw generate-resourcesou usando o laucher do Eclipse (clique com o botão direito do mouse em project e Run As -> Maven install) para gerar o css. Execute o método principal do aplicativo clicando com o botão direito nele e escolhendo Run As -> Java Application.
+
+
+
+
+
+
+
+
