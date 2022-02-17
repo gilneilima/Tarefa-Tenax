@@ -9,7 +9,6 @@ A aplicação consiste no controle de servidores através de id, nome e descriç
 
 ## 🛠️ Recursos Utilizados no Desenvolvimento da Aplicação
 
-- Visual Studio Code **[DOWNLOAD AQUI](https://code.visualstudio.com/download)**
 - Eclipse IDE **[ACESSE AQUI](https://www.eclipse.org/downloads/)**
 - Spring Tool Suite **[DOWNLOAD AQUI](https://spring.io/tools)**
 - Postresql **[DOWNLOAD AQUI](https://www.postgresql.org/download/windows/)**
